@@ -3,21 +3,21 @@ A collection of modular, architecture-aware shell scripts to set up a complete D
 
 # Quick Start
 1. Clone the repo:
-''' bash
+```
 git clone [https://github.com/your-username/devops-tool-box.git](https://github.com/your-username/devops-tool-box.git) download-scripts
 cd download-scripts
-'''
+```
 
 2. Give permissions: 
-'''
+```
 chmod -R +x .
-'''
+```
 
 3. Run the scripts:
 Example: Installing Docker
-'''
+```
 ./docker/install-docker.sh
-'''
+```
 
 # Key Features
 - **Architecture Detection:** Automatically detects x86_64 (Intel/AMD) vs aarch64 (ARM/Apple Silicon/Graviton) to fetch correct binaries.
