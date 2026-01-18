@@ -1,12 +1,10 @@
-# This is where you will find Download Scripts
+# DevOps Tool Box
 A collection of modular, architecture-aware shell scripts to set up a complete DevOps environment on Ubuntu/Debian.
 
 # Quick Start
 1. Clone the repo:
 '''
-git clone https://github.com/your-username/devops-tool-box.git
-'''
-'''
+git clone [https://github.com/your-username/devops-tool-box.git](https://github.com/your-username/devops-tool-box.git) download-scripts
 cd download-scripts
 '''
 
