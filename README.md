@@ -3,7 +3,7 @@ A collection of modular, architecture-aware shell scripts to set up a complete D
 
 # Quick Start
 1. Clone the repo:
-'''
+''' bash
 git clone [https://github.com/your-username/devops-tool-box.git](https://github.com/your-username/devops-tool-box.git) download-scripts
 cd download-scripts
 '''
