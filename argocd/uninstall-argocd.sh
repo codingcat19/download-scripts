@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🗑️  Uninstalling ArgoCD..."
+echo "Uninstalling ArgoCD..."
 
 # Remove from Kubernetes
 if kubectl get namespace argocd &> /dev/null; then
