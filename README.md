@@ -13,7 +13,7 @@ cd download-scripts
 chmod -R +x .
 ```
 
-3. Run the scripts:
+3. Run the scripts: <br>
 Example: Installing Docker
 ```
 ./docker/install-docker.sh
